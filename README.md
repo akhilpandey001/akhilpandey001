@@ -260,7 +260,7 @@
 
   [★] 2025  🥉 3rd Place — MobileNext 2025 App Showcase
   [★] 2025  🏛️ Selected  — Smart India Hackathon Team
-  [★] 2024  🔬 Research  — PUF-based Authentication Systems
+  [★] 2026  🔬 Research  — PUF-based Authentication Systems
   [★] Ongoing 🎯 Active  — CTF Competitor (H7CTF + more)
   [★] Ongoing 🐛 Active  — Bug Bounty Hunting
   [★] Ongoing 📚 Always  — Cybersec & App Dev Learning
